@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast-Gen-Github"
 author: "Muhammetkbs"
 description: "Generates a feed for a podcast from a YAML file"
 runs: 
